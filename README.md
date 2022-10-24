@@ -6,7 +6,6 @@
 <h3 align="center">A developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonsnipex&label=Profile%20views&color=0e75b6&style=flat" alt="jonsnipex" /> </p>
-<a href="https://discord.gg/driftzone" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/982291569589780520/widget.png"></a>
 
 - 🔭 I’m currently working on [Drift Zone](discord.gg/driftzone)
 
