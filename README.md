@@ -7,7 +7,6 @@
 
 - 📫 How to reach me: **JonSnipeX#8436**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
