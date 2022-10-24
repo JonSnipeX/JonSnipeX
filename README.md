@@ -19,8 +19,3 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/887062943454335006)](https://discord.com/users/887062943454335006)
 <div align="center" width="50">
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonsnipex&show_icons=true&locale=en" alt="jonsnipex" /></p>
