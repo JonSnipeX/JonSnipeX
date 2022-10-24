@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.gg/driftzone" rel="noopener" target="_blank"><img width="150" src="https://cdn.discordapp.com/attachments/925391971764285480/1000788789737828412/output-onlineimagetools.png" alt="logo"></a></p>
+  <a href="https://discord.gg/driftzone" rel="noopener" target="_blank"><img width="150" src="https://avatars.githubusercontent.com/u/74094760?v=4" alt="logo"></a></p>
 </p>
 
 <h1 align="center">Hi 👋, I'm JonSnipeX</h1>
